@@ -1,0 +1,297 @@
+.nav-index .glyphicon-home:before {
+  content: "\e021";
+}
+.nav-index *:before,
+.nav-index *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin-right: 5px;
+}
+.nav-index a {
+  color: #777;
+  font-weight: bold;
+}
+.header-index {
+  background: #F6DEE3;
+  border: 1px solid #ebccd1;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+.header-index h3 {
+  color: #a94464;
+}
+.header-index p {
+  font-size: 13px;
+  color: #a94464;
+}
+.header-index button {
+  margin-bottom: 15px;
+}
+.main-index .m-tongji {
+  border: 1px solid #dddddd;
+  margin-top: 20px;
+}
+.main-index .m-tongji h1 {
+  margin-top: 0px;
+  font-size: 12px;
+  line-height: 40px;
+  background: #f5f5f5;
+  border-bottom: 1px solid #dddddd;
+  padding-left: 16px;
+}
+.main-index .m-retie {
+  border: 1px solid #dddddd;
+  margin-top: 20px;
+  padding: 0;
+}
+.main-index .m-retie h1 {
+  margin-top: 0px;
+  font-size: 12px;
+  line-height: 40px;
+  background: #f5f5f5;
+  border-bottom: 1px solid #dddddd;
+  padding-left: 16px;
+}
+.main-index .m-retie table {
+  color: #337ab7;
+}
+.main-index .m-retie table span {
+  margin-right: 5px;
+}
+.main-index .m-fangke {
+  margin-top: 20px;
+  border: 1px solid #dddddd;
+  height: 334px;
+}
+.main-index .m-fangke h1 {
+  margin-top: 0px;
+  font-size: 12px;
+  line-height: 40px;
+  background: #f5f5f5;
+  border-bottom: 1px solid #dddddd;
+  padding-left: 16px;
+}
+.main-index .m-zhuangtai {
+  margin-top: 20px;
+  border: 1px solid #dddddd;
+  height: 334px;
+}
+.main-index .m-zhuangtai h1 {
+  margin-top: 0px;
+  font-size: 12px;
+  line-height: 40px;
+  background: #f5f5f5;
+  border-bottom: 1px solid #dddddd;
+  padding-left: 16px;
+}
+.main-index .m-zhuangtai h2 {
+  font-size: 12px;
+  padding-left: 16px;
+}
+.main-index .m-zhuangtai .progress {
+  margin: 0 16PX;
+}
+.l-liuyan {
+  border: 1px solid #dddddd;
+  margin-top: 20px;
+}
+.l-liuyan h1 {
+  margin-top: 0px;
+  font-size: 12px;
+  line-height: 40px;
+  background: #f5f5f5;
+  border-bottom: 1px solid #dddddd;
+  padding-left: 16px;
+}
+.l-liuyan .l-zhuo {
+  background: #f5f5f5;
+  border-bottom: 1px solid #dddddd;
+  margin: 20px 0 20px 30px;
+}
+.l-liuyan .l-zhuo dl {
+  padding: 20px 0;
+  margin-left: 20px;
+}
+.l-liuyan .l-zhuo dl dt {
+  float: left;
+  margin-right: 5px;
+}
+.l-liuyan .l-zhuo dl dd {
+  font-size: 12px;
+}
+.l-liuyan .l-bother {
+  background: #f5f5f5;
+  border-bottom: 1px solid #dddddd;
+  margin: 20px 0 20px 30px;
+  margin-top: 0;
+}
+.l-liuyan .l-bother dl {
+  padding-top: 20px;
+  margin-right: 20px;
+  padding-bottom: 10px;
+}
+.l-liuyan .l-bother dl dt {
+  float: right;
+  margin-left: 5px;
+}
+.l-liuyan .l-bother dl dd {
+  text-align: right;
+}
+.l-liuyan .l-text h2 {
+  font-size: 13px;
+  font-weight: bold;
+}
+.l-liuyan .l-text textarea {
+  width: 100%;
+}
+.l-liuyan .l-text .mybnt {
+  background: #fff;
+  border: 1px solid #cccccc;
+  display: block;
+  width: 52px;
+  height: 32px;
+  border-radius: 5px;
+  margin: 15px 0;
+}
+.l-liuyan .l-text .l-tema {
+  border: 1px solid #cccccc;
+  width: 100%;
+}
+.l-liuyan .l-text .l-tema ul {
+  border: 1px solid #cccccc;
+  width: 395px;
+  margin-left: 15px;
+}
+.l-liuyan .l-text .l-tema ul li {
+  line-height: 40px;
+  list-style: none;
+}
+.l-liuyan .l-text .l-tema ul li a {
+  color: #000;
+}
+.footer-index {
+  text-align: center;
+}
+.footer-index p {
+  padding: 20px 0;
+}
+.c-connt h1 {
+  border: 1px solid #cccccc;
+  font-size: 12px;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-left: 10px;
+  border-radius: 5px 5px 0px 0px;
+}
+.c-connt h1 a {
+  color: #000;
+}
+.c-connt h2 {
+  background: #337ab7;
+  font-size: 12px;
+  margin-top: 0;
+  line-height: 40px;
+  padding-left: 10px;
+  color: #fff;
+  border-radius: 0px 0px 5px 5px ;
+}
+.c-connt h2 a {
+  color: #fff;
+}
+.c-main h1 {
+  font-size: 14px;
+}
+.c-main .cm-connt {
+  line-height: 40px;
+  border-bottom: 1px solid #CCCCCC;
+}
+.c-main .cm-connt span {
+  color: #6c7ab7;
+  display: inline-block;
+  margin: 0 15px;
+}
+.c-main .cm-connt b {
+  display: inline-block;
+  padding: 0 15px;
+  border: 1px solid #CCCCCC;
+  border-bottom: 0;
+  background: #fff;
+  position: absolute;
+  border-radius: 5px 5px 0 0;
+}
+.c-main h2 {
+  font-size: 12px;
+  font-weight: bold;
+}
+.c-main .input1 {
+  width: 100%;
+  height: 32px;
+  border: 1px solid #CCCCCC;
+  font-size: 12px;
+  padding-left: 10px;
+}
+.c-main textarea {
+  width: 100%;
+}
+.c-main .check-box {
+  float: left;
+  margin-top: 10px;
+}
+.c-main .check-box input {
+  margin-right: 5px;
+}
+.c-main button {
+  float: right;
+  margin-top: 10px;
+}
+.c-connt-2 h2 {
+  border: 1px solid #cccccc;
+  font-size: 12px;
+  line-height: 40px;
+  padding-left: 10px;
+  border-radius: 0px 0px 5px 5px ;
+  margin-top: 0;
+}
+.c-connt-2 h2 a {
+  color: #000;
+}
+.c-connt-2 h1 {
+  margin-bottom: 0;
+  background: #337ab7;
+  font-size: 12px;
+  border-radius: 5px 5px 0px 0px;
+  line-height: 40px;
+  padding-left: 10px;
+  color: #fff;
+}
+.c-connt-2 h1 a {
+  color: #fff;
+}
+.c-main-2 h1 {
+  font-size: 14px;
+}
+.c-main-2 .cm-connt {
+  line-height: 40px;
+  border-bottom: 1px solid #CCCCCC;
+}
+.c-main-2 .cm-connt span {
+  display: inline-block;
+  padding: 0 15px;
+  border: 1px solid #CCCCCC;
+  border-bottom: 0;
+  background: #fff;
+  position: absolute;
+  border-radius: 5px 5px 0 0;
+}
+.c-main-2 .cm-connt b {
+  display: inline-block;
+  margin-left: 120px;
+  color: #6c7ab7;
+}
+.c-main-2 .table {
+  margin-top: 12px;
+}
+.c-main-2 .page {
+  float: right;
+}
